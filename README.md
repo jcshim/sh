@@ -2,6 +2,8 @@
 ## 이영학 심재창
 We can make 3D using Two images
 
+# Meeting Schedule
+### S.H will visit Andong National Univ. on 6.22.2019 <Welcome!!!>
 
 # References
 [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://arxiv.org/abs/1901.01880)
