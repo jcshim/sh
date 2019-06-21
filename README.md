@@ -16,3 +16,4 @@ We can make 3D using Two images
 
 # 참고 동영상
 * [AI Learns Video Frame Interpolation](https://youtu.be/T_g6S3f0Z5I)
+* [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://youtu.be/jdqTFL-WbX8)
