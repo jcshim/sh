@@ -6,7 +6,8 @@ We can make 3D using Two images
 ### S.H will visit Andong National Univ. on 6.22.2019 <Welcome!!!>
 
 # References
-* Paper [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://arxiv.org/abs/1901.01880)
+* Paper in PDF [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://arxiv.org/abs/1901.01880)
+* [paper in web](https://www.groundai.com/project/nvs-machines-learning-novel-view-synthesis-with-fine-grained-view-control/)
 * video [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://youtu.be/RdlQIc0ilZw)
 * [data](https://drive.google.com/drive/folders/1_SXooG8lFbhcdBTjFoPEKSGsumgkex8q)
 * youtube [SIGGRAPH 2018, Stereo Magnification: Learning view synthesis using multiplane images](https://youtu.be/oAKDhHPwSUE)
