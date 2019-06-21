@@ -10,4 +10,5 @@ We can make 3D using Two images
 * video [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://youtu.be/RdlQIc0ilZw)
 * [data](https://drive.google.com/drive/folders/1_SXooG8lFbhcdBTjFoPEKSGsumgkex8q)
 * youtube [SIGGRAPH 2018, Stereo Magnification: Learning view synthesis using multiplane images](https://youtu.be/oAKDhHPwSUE)
+[* source code in github](https://github.com/google/stereo-magnification)
 * youtube [Stereo Magnification: Learning view synthesis using multiplane images](https://youtu.be/k7C3Gg1V1lY)
