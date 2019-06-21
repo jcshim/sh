@@ -31,3 +31,4 @@
 * Etc..
   * [AI Learns Video Frame Interpolation](https://youtu.be/T_g6S3f0Z5I)
   * [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://youtu.be/jdqTFL-WbX8)
+  * [DeepView: View Synthesis with Learned Gradient Descent, 2018](https://youtu.be/UD7I9gXIVsc)
