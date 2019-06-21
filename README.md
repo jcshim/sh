@@ -23,9 +23,9 @@ We can make 3D using Two images
   * youtube [SIGGRAPH 2018, Stereo Magnification: Learning view synthesis using multiplane images](https://youtu.be/oAKDhHPwSUE)
   * [source code in github](https://github.com/google/stereo-magnification)
   * youtube [Stereo Magnification: Learning view synthesis using multiplane images](https://youtu.be/k7C3Gg1V1lY)
-* Reference
+* References
   * [Youtube, Learning-Based View Synthesis for Light Field Cameras (SIGGRAPH Asia 2016)](https://youtu.be/oSTXaeHRUR8) 
   * [Paper, Source, Learning-Based View Synthesis for Light Field Cameras (SIGGRAPH Asia 2016)](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIGASIA16/)
-* etc  
+* Etc..
   * [AI Learns Video Frame Interpolation](https://youtu.be/T_g6S3f0Z5I)
   * [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://youtu.be/jdqTFL-WbX8)
