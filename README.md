@@ -1,6 +1,8 @@
 # sh (김소형 논문)
 ## 이영학 심재창
-We can make 3D using Two images
+* We would like to make a best 3D images using two stereo images
+* Simple
+* Efficient
 
 # Meeting Schedule
 ### S.H will visit Andong National Univ. on 6.22.2019 <Welcome!!!>
