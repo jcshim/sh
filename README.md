@@ -33,3 +33,6 @@
   * [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://youtu.be/jdqTFL-WbX8)
   * [DeepView: View Synthesis with Learned Gradient Descent, 2018](https://youtu.be/UD7I9gXIVsc)
   * [Soft 3D Reconstruction for View Synthesis](https://youtu.be/szJBJ8oWrXI)
+* Lesson
+  * [Lesson, Youtube 25분, 2014: 3d reconstruction with stereo cameras](https://youtu.be/Ebxj04uhmS8)
+  
