@@ -4,6 +4,12 @@ We can make 3D using Two images
 
 # Meeting Schedule
 ### S.H will visit Andong National Univ. on 6.22.2019 <Welcome!!!>
+* 8:00 Daegu, Dr. Lee will pick her up.
+* 9:30 Andong National Univ., 406 Eng. Bld II, Dr. Shim's office
+* 9:40 Introduction
+* 9:40~10:20 SH will present her idea
+* 10:20~11:20 Discussion
+* 11:20~12:00 Conclusion
 
 # References
 * Paper in PDF [NVS Machines: Learning Novel View Synthesis with Fine-grained View Control](https://arxiv.org/abs/1901.01880)
