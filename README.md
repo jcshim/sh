@@ -1,5 +1,12 @@
 # sh (김소형 논문)
-## 이영학 심재창
+# keywords
+* novel view synthesis
+* depth completion
+* stereo images
+* GAN
+* auto encoder, auto decoder
+
+## 이영학 정윤주 심재창
 * We would like to make a best 3D images using two stereo images
 * Simple
 * Efficient
