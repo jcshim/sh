@@ -41,3 +41,4 @@
 * [2D-to-Stereo Panorama Conversion Using GAN and Concentric Mosaics]
 * [Virtual View Generation Based on 3D-Dense-Attentive GAN Networks]  
 * [https://youtu.be/3AIpPlzM_qs]
+* [https://arxiv.org/abs/1803.06657]
