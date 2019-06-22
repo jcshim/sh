@@ -37,4 +37,6 @@
   * [Lesson, Youtube 25분, 2014: 3d reconstruction with stereo cameras](https://youtu.be/Ebxj04uhmS8)
   
 * [Stereo Camera](https://www.stereolabs.com/)
+
+* [2D-to-Stereo Panorama Conversion Using GAN and Concentric Mosaics]
   
