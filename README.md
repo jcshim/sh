@@ -1,9 +1,8 @@
 # sh (김소형 논문)
 ## Most Recent updates
-* Added the tf script of the network idea.[https://github.com/shgold/sh/tree/master/scratch_work]
-* Next step: debug
-
-* For more details please refer to this slide[https://docs.google.com/presentation/d/19Mhw9ge1RlWJ_PhIk0VTcwCJc0MVkP9--AXLz1p3ppw/edit?usp=sharing]
+* Added the [tf script](https://github.com/shgold/sh/tree/master/scratch_work) of the network idea.
+* **Next step**: debug
+* For more details please refer to this [slide](https://docs.google.com/presentation/d/19Mhw9ge1RlWJ_PhIk0VTcwCJc0MVkP9--AXLz1p3ppw/edit?usp=sharing)
 
 # keywords
 * novel view synthesis
