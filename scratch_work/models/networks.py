@@ -53,11 +53,12 @@ def Decoder(inputs, num_outputs, is_train=True, variable_scope='Decoder', reuse_
         out = deconv2d(out, 256, is_train, name='deconv2')
         out = bilinear_deconv2d(out, 256, is_train, name='deconv3')
         out = bilinear_deconv2d(out, 256, is_train, name='deconv4')
-        out = bilinear_deconv2d(out, 256, is_train, name='deconv5')
-        out = bilinear_deconv2d(out, 128, is_train, name='deconv6')
-        out = bilinear_deconv2d(out, 64, is_train, name='deconv7')
-        out = bilinear_deconv2d(out, 32, is_train, name='deconv8')
-        out = slim.conv2d(out, num_outputs, [3, 3], stride =1, activation_fn=None, scope='pred')
+        out = bilinear_deconv2d(out, 128, is_train, name='deconv5')
+        out = bilinear_deconv2d(out, 64, is_train, name='deconv6')
+        out = bilinear_deconv2d(out, 32, is_train, name='deconv7')
+        out = bilinear_deconv2d(out, num_outputs, is_train, name='deconv8', activation_fn=None, norm='None')
+
+        #out = slim.conv2d(out, num_outputs, [3, 3], stride =1, activation_fn=None, scope='pred')
 
         return out
 
