@@ -1,4 +1,4 @@
-# sh (김소형 논문)
+# sh (김소형 논문) [논문 통과를 진심으로 축하 합니다. 2019년 9월]
 # keywords
 * novel view synthesis
 * depth completion
